@@ -1,0 +1,22 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../porfi.gen/sources_1/ip/xadc_wiz_0/xadc_wiz_0.vhd" \
+"../../../../porfi.srcs/sources_1/imports/sources_1/imports/new/Cont15sg.vhd" \
+"../../../../porfi.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/FF_D.vhd" \
+"../../../../porfi.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/Mux.vhd" \
+"../../../../porfi.srcs/sources_1/imports/sources_1/new/MuxMin.vhd" \
+"../../../../porfi.srcs/sources_1/imports/sources_1/new/Sumador.vhd" \
+"../../../../porfi.srcs/sources_1/imports/sources_1/imports/new/SelectorHyM.vhd" \
+"../../../../porfi.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/digi_clk.vhd" \
+"../../../../porfi.srcs/sources_1/imports/sources_1/imports/new/SalidaComp.vhd" \
+"../../../../porfi.srcs/sources_1/imports/sources_1/imports/new/comparador.vhd" \
+"../../../../porfi.srcs/sources_1/imports/sources_1/imports/Desktop/MuxMotor.vhd" \
+"../../../../porfi.srcs/sources_1/imports/sources_1/new/Motor.vhd" \
+"../../../../porfi.srcs/sources_1/imports/sources_1/new/conv.vhd" \
+"../../../../porfi.srcs/sources_1/imports/sources_1/new/mainn.vhd" \
+"../../../../porfi.srcs/sources_1/imports/sources_1/imports/sources_1/new/Mux2.vhd" \
+"../../../../porfi.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/tutorial.vhd" \
+"../../../../porfi.srcs/sources_1/new/Final_test.vhd" \
+
+# Do not sort compile order
+nosort
